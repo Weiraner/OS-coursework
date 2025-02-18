@@ -1,0 +1,36 @@
+#exit
+rm -rf test0.txt
+rm -rf test1.txt
+rm -rf test2.txt
+rm -rf test3.txt
+echo hello
+local a=hello
+
+echo $a >test0.txt
+echo $a >>test1.txt
+echo $a &>test2.txt
+echo $a &>>test3.txt
+history 1
+history 2
+history 3
+history 4
+
+cat <test3.txt
+history set 1
+history
+history set 5
+history
+cd ..
+ls
+/bin/ls &>>solution/test3.txt
+ps
+fire
+rm -rf a
+history
+hahaha
+uname
+history set 6
+history
+asdfoi
+history 6
+exit

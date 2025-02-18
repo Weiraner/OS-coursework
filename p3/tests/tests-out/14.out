@@ -1,0 +1,17 @@
+wsh> Linux
+wsh> wsh> wsh> wsh> a:/bin
+wsh> wsh> 1) echo $PATH
+2) uname
+wsh> Linux
+wsh> Linux
+wsh> wsh> wsh> /home/shiya/private/cs537/p3/solution
+wsh> wsh> wsh>     PID TTY          TIME CMD
+4081818 pts/11   00:00:00 bash
+4147770 pts/11   00:00:00 bash
+4148127 pts/11   00:00:00 wsh
+4148144 pts/11   00:00:00 ps
+wsh> a=b
+PATH=pathx
+LS=ls
+try=ps
+wsh> 

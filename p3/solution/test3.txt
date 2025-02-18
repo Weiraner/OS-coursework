@@ -1,0 +1,6 @@
+hello
+hello
+README.md
+slipdays.txt
+solution
+tests

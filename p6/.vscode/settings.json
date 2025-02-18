@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "wfs.h": "c",
+        "unistd.h": "c",
+        "stdlib.h": "c"
+    }
+}

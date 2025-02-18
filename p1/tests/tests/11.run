@@ -1,0 +1,1 @@
+../solution/letter-boxed tests/11.board ../dict.txt < tests/11.in

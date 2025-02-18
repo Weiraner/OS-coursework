@@ -1,0 +1,6 @@
+echo hello &>>log.txt
+cat log.txt
+history
+history 2
+# this is a comment
+history 1
